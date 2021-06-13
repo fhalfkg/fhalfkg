@@ -2,16 +2,16 @@
 
 ## 🧰 Tech Stack
 - Basic
-  - <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
+  - <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 - Web
-  - <img src="https://img.shields.io/badge/Node.js-'339933'?style=flat-square&logo=Node.js&logoColor=white"/></a>
-  - <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
+  - <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-'339933'?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  - <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
 - Mobile
-  - <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
-  - <img src="https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white"/></a>
+  - <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
+  - <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white"/></a>
 - DB
-  - <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  - <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+  - <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  - <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
 ## 💻 Project
 - H4Pay
