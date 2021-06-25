@@ -6,7 +6,8 @@
 {
   "message": "I love JSON and Node.js",
   "working": "Backend Programmer",
-  "job": "Student"
+  "job": "Student",
+  "language": "Korean, Japanese, English"
 }
 ```
 
