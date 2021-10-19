@@ -27,7 +27,7 @@
 ## 💻 Project
 - H4Pay
 - SJRecycle
-- 서전고 알리미
+- SJNotifier
 
 ## 🎵 Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fj5voxedvb6v6y0kxdtzqsbp6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
