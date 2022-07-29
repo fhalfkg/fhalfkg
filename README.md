@@ -15,7 +15,8 @@
 - Basic
   - <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 - Web
-  - <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-'339933'?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  - <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  - <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJs-e0234e?style=flat-square&logo=NestJs&logoColor=white"/></a>
   - <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
 - Mobile
   - <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
