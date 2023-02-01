@@ -14,6 +14,9 @@
 ## 🧰 Tech Stack
 - Basic
   - <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
+  - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
+- Windows
+  - <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 - Web
   - <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   - <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
