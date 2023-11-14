@@ -7,27 +7,43 @@
   "message": "I love JSON and Node.js",
   "working": "Backend Programmer",
   "job": "Student",
-  "language": "Korean, Japanese, English"
+  "language": "Korean, Japanese, English, German(a little)"
 }
 ```
 
 ## 🧰 Tech Stack
-- Basic
-  - <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
-  - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
-  - <a href="https://(https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+- Language
+
+<a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>
+<a href="https://html.spec.whatwg.org/multipage"><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="https://www.w3.org/TR/css-2023"><img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262"><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="https://openjdk.org"><img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white"/></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=Dart&logoColor=white"/></a>
+
 - Windows
-  - <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white"/></a>
+
+<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white"/></a>
+
 - Web
-  - <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-  - <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
-  - <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
+
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
+
 - Mobile
-  - <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
-  - <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white"/></a>
+
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/></a>
+
 - DB
-  - <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  - <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
 ## 💻 Project
 - H4Pay
