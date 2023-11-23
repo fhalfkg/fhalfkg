@@ -17,7 +17,7 @@
 - Language
 
 <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=333"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
 <a href="https://html.spec.whatwg.org/multipage"><img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <a href="https://www.w3.org/TR/css-2023"><img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262"><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
@@ -29,14 +29,14 @@
 
 - Windows
 
-<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.NET&logoColor=white"/></a>
 
 - Web
 
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>
 <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
 
 - Mobile
 
