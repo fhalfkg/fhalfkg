@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b9d3ef&text=BrainInAVet&fontColor=24405e&height=200&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffhalfkg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/fhalfkg)
-
 ### 불편함이 세상을 바꾼다.
 
 ```json
@@ -51,6 +49,3 @@
 - H4Pay
 - SJRecycle
 - SJNotifier
-
-## 🎵 Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fj5voxedvb6v6y0kxdtzqsbp6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fj5voxedvb6v6y0kxdtzqsbp6&redirect=true)
