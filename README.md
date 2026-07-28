@@ -4,10 +4,10 @@
 
 ```json
 {
-  "message": "I love JSON and Node.js",
-  "working": "Backend Programmer",
+  "message": "I love Node.js and Kotlin",
+  "working": "Backend Developer",
   "job": "Student",
-  "language": "Korean, Japanese, English, German(a little)"
+  "language": "Korean, Japanese, English"
 }
 ```
 
